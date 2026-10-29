@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Python, R, and Data Visualization**
 - 💻 I have hands-on experience with **PHP, Python, R, and Jupyter Notebook**
 - 📊 Passionate about **Data Analysis and Visualization**
-- 📫 How to reach me: **your.email@example.com**
+
 
 ## 🛠️ Tech Stack
 <p align="left">
